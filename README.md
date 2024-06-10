@@ -1,12 +1,16 @@
-## About Me
+# software engineer
 
-I'm vutagwa, a  software engineer. I'm passionate about technology, especially Python, JavaScript, and cybersecurity. I love exploring new tools and frameworks, and I'm always open to collaboration on exciting projects.
-
+## socials
 
 
 ## Skills
 
-- **Languages:** Python, JavaScript, HTML, CSS
+  ### Languages: 
+  ![npm bundle size](https://img.shields.io/bundlephobia/:format/:packageName)
+  https://img.shields.io/open-vsx/dt/:namespace/:extension
+  https://img.shields.io/badge/logo-javascript-blue?logo=javascript
+  ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/:packageName)
+
 - **Frameworks:** React, Node.js, Django
 - **Cybersecurity:** Basic knowledge of security principles and practices
 - **Tools:** Git, VS Code, Docker
